@@ -1,0 +1,10 @@
+* cl-match-patterns
+
+Library for handling Match Patterns used in major browsers for URL matching.
+
+|---------|------------------------------------------------------|
+| source  | git:https://codeberg.org/aartaka/cl-match-patterns   |
+| commit  | 9a4e9cb                                              |
+| systems | cl-match-patterns                                    |
+|---------|------------------------------------------------------|
+
